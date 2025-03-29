@@ -15,7 +15,7 @@ firebase-admin
 
 
 sqlalchemy
-sqlite3  
+ 
 psycopg2  
 mysql-connector-python  
 
